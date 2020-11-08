@@ -6,14 +6,24 @@
     <managingEditor> (Marcel Schramm)</managingEditor>
     <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
     <item>
+      <title>The Second episode</title>
+      <link>https:/marcelschr.me/podcast-test/articles/ep2.html</link>
+      <description></description>
+      <content:encoded><![CDATA[
+<p>This time we have a bigger file to see whether streaming works.</p>
+]]></content:encoded>
+      <enclosure url="https:/marcelschr.me/podcast-test/media/big-audio.mp3" length="28760062" type="audio/mp3"></enclosure>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The First episode</title>
-      <link>https:/marcelschr.me/podcast-test/articles/kaito.html</link>
+      <link>https:/marcelschr.me/podcast-test/articles/ep1.html</link>
       <description></description>
       <content:encoded><![CDATA[
 <p>This is a proof of concept using my static blog generator to generate a podcast page.</p>
 ]]></content:encoded>
       <enclosure url="https:/marcelschr.me/podcast-test/media/shallow.mp3" length="3489909" type="audio/mp3"></enclosure>
-      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
