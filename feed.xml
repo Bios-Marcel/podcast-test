@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Podcast Test</title>
+    <link>https://marcelschr.me/podcast-test</link>
+    <description></description>
+    <managingEditor> (Marcel Schramm)</managingEditor>
+    <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+    <item>
+      <title>The First episode</title>
+      <link>https:/marcelschr.me/podcast-test/articles/kaito.html</link>
+      <description></description>
+      <content:encoded><![CDATA[
+<p>This is a proof of concept using my static blog generator to generate a podcast page.</p>
+]]></content:encoded>
+      <enclosure url="https:/marcelschr.me/podcast-test/media/shallow.mp3" length="3489909" type="audio/mp3"></enclosure>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
